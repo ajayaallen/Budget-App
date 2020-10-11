@@ -1,1 +1,1 @@
-See Issue Section for Contributing.
+See Issue Section to contribute and solve the issue.
